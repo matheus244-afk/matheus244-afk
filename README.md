@@ -1,7 +1,9 @@
 Olá! Meu Nome e Matheus Oliveira
 
-.Estou no primeiro semestro da faculdade 
+.Tenho 23 Anos 
 
-.Cursando engenharia de software
+.Estou no primeiro semestre da faculdade 
+
+.Cursando Engenharia de Software
 
 .Atuo como torneiro mecanico

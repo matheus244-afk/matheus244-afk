@@ -8,4 +8,4 @@ Olá! Meu Nome e Matheus Oliveira
 
 .Estou no primeiro semestre 
 
-loading... MYsql, java, javascript, pyton, sql, c#, c++, HTml, Base de dados e outos
+loading... MYsql, java, javascript, python, sql, c#, c++, HTml, Base de dados e outos

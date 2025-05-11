@@ -4,8 +4,8 @@ Olá! Meu Nome e Matheus Oliveira
 
 .Atuo como torneiro mecanico
 
-.Estou no primeiro semestre da faculdade 
-
 .Cursando Engenharia de Software
+
+.Estou no primeiro semestre 
 
 loading... MYsql, java, javascript, pyton, sql, c#, c++, HTml, Base de dados e outos

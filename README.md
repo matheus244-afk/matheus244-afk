@@ -1,9 +1,10 @@
-Olá! Meu Nome e Matheus Oliveira                        loading... MYsql, java, javascript, pyton, sql, c#, c++
-                                                                   HTml, Base de dados e outos 
+Olá! Meu Nome e Matheus Oliveira 
+
 .Tenho 23 Anos
+
+.Atuo como torneiro mecanico
 
 .Estou no primeiro semestre da faculdade 
 
 .Cursando Engenharia de Software
-
-.Atuo como torneiro mecanico
+loading... MYsql, java, javascript, pyton, sql, c#, c++ HTml, Base de dados e outos
